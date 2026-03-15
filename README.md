@@ -1,54 +1,425 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand" width="35" /> Hello, I'm Marina Ayman!
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=700&color=00E0FF&center=true&vCenter=true&width=700&lines=Backend+%26+Full+Stack+Developer;Laravel+%7C+Node.js+%7C+Vue.js+%7C+Quasar;3%2B+Years+of+Experience;Building+Scalable+Web+Applications;Clean+Code+%7C+Problem+Solver" alt="Typing SVG" /> </p><p align="center"> <a href="https://github.com/marina-ayman"> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> </a> </p><div align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBkZjB4YzRsa2tldDNlcHk0aXJ0c2RqcDZ6dWlwbHd3eGZ5ZmoxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="300" alt="coding-girl"> <br> <img src="https://komarev.com/ghpvc/?username=marina-ayman&label=Profile%20Views&color=00E0FF&style=flat-square" alt="profile views"> </div>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="40" /> About Me
-I'm a Software Engineer with 3+ years of experience in designing, developing, and deploying robust web applications. My expertise spans backend systems with Laravel and Node.js, and frontend interfaces with Vue.js/Quasar. I thrive on turning complex requirements into simple, elegant solutions.
-
-📍 Location: Cairo, Egypt
-
-📧 Email: marinaaymanae777@gmail.com
-
-🌐 Portfolio: marina-ayman.com
-
-🔗 LinkedIn: linkedin.com/in/marina-ayman
-
-“First, solve the problem. Then, write the code.” – John Johnson
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="30" /> Tech Stack
-<p align="center"> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> </p>
-🖥️ Backend
-<p align="center"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=black&color=FF2D20&logoWidth=25" alt="Laravel"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black&color=339933&logoWidth=25" alt="Node.js"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=black&color=777BB4&logoWidth=25" alt="PHP"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=4479A1&logoWidth=25" alt="MySQL"> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=black&color=CC2927&logoWidth=25" alt="SQL Server"> <img src="https://img.shields.io/badge/Eloquent-ORM-orange?style=for-the-badge&labelColor=black&color=orange" alt="Eloquent"> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white&labelColor=black&color=52B0E7&logoWidth=25" alt="Sequelize"> <img src="https://img.shields.io/badge/REST-API-02569B?style=for-the-badge&labelColor=black&color=02569B" alt="REST API"> </p>
-🎨 Frontend
-<p align="center"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=black&color=4FC08D&logoWidth=25" alt="Vue.js"> <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white&labelColor=black&color=1976D2&logoWidth=25" alt="Quasar"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black&color=F7DF1E&logoWidth=25" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=E34F26&logoWidth=25" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=1572B6&logoWidth=25" alt="CSS3"> <img src="https://img.shields.io/badge/Ajax-005571?style=for-the-badge&logo=jquery&logoColor=white&labelColor=black&color=005571&logoWidth=25" alt="Ajax"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=black&color=DD0031&logoWidth=25" alt="Angular"> </p>
-🛠️ Tools & Others
-<p align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=F05032&logoWidth=25" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=181717&logoWidth=25" alt="GitHub"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black&color=2496ED&logoWidth=25" alt="Docker"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=black&color=FF6C37&logoWidth=25" alt="Postman"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=black&color=00599C&logoWidth=25" alt="C++"> <img src="https://img.shields.io/badge/OOP-Object%20Oriented-blue?style=for-the-badge&labelColor=black&color=blue" alt="OOP"> <img src="https://img.shields.io/badge/MVC-Pattern-red?style=for-the-badge&labelColor=black&color=red" alt="MVC"> <img src="https://img.shields.io/badge/MVVM-Pattern-blue?style=for-the-badge&labelColor=black&color=blue" alt="MVVM"> </p>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35" /> Professional Experience
-<details open> <summary><b>💻 Freelance Back‑End Developer</b> (2022 – Present) · Online</summary> <br> <ul> <li>⚡ Developed custom web applications using <b>Laravel MVC</b> and <b>Node.js</b>.</li> <li>⚡ Integrated databases with <b>Eloquent ORM</b> and <b>Sequelize</b>.</li> <li>⚡ Built <b>RESTful APIs</b> with robust authentication & authorization.</li> </ul> </details><details> <summary><b>☁️ Full Stack Developer @ VPSie "Cloud Enabler"</b> · Node.js / Vue.js (Quasar.js)</summary> <br> <ul> <li>🚀 Contributed to the VPSie Cloud Platform – a web‑based system for managing cloud servers and virtual environments.</li> <li>🚀 Built interactive dashboards and responsive interfaces using <b>Quasar Framework</b>.</li> <li>🚀 Developed backend services with <b>Node.js</b>, handling user authentication and server management.</li> </ul> </details><details> <summary><b>⚙️ PHP/Laravel Developer @ Acwad Company</b> (10/2023 – 05/2024) · Online</summary> <br> <ul> <li>🛠️ Worked on <b>MVC architecture</b>, database creation (SQL Server, phpMyAdmin).</li> <li>🛠️ Implemented frontend features with <b>HTML5, CSS3, JavaScript, Ajax</b>.</li> <li>🛠️ Managed code versioning with <b>GitHub</b>.</li> </ul> </details>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="30" /> Featured Projects
-<p align="center"> <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> </p><div align="center">
-Project	Description	Tech Stack
-🏛️ Borkan Management System	Management system for organizations supporting people with special needs – multi‑form submission, admin approval workflows, automatic PDF generation for 16 official forms.	https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white https://img.shields.io/badge/AJAX-005571?style=flat&logo=jquery&logoColor=white
-📈 Project Sales Representative	Sales rep application with multi‑currency invoices, contracts, and multilingual (AR/EN) admin dashboard.	https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white
-🌴 MUTE – Discover Aswan	Tourism website to help visitors explore Aswan easily (graduation project).	https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white
-🏥 Medical Supplies Store	Inventory system for medical supplies – items, suppliers, invoices, HR module.	https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white
-🐔 Yamama Project	Poultry product export management across branches and countries – statistics, reporting, API.	https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white
-💳 Invoices Project	Bank invoice management (paid/unpaid/partial) with authentication, email notifications, export to Excel/PDF.	https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white
-🤝 Charitable Organization Project	International charity platform connecting local organizations, donors, beneficiaries – multi‑vendor, API.	https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white
-🏨 Booking & Hosting	Apartment rental platform with cultural hosting feature.	https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white
-💻 LapTop	Frontend landing page for laptops with animations.	https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black
+<h1 align="center">
+  <img
+    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png"
+    alt="Waving Hand"
+    width="35"
+  />
+  Hello, I'm Marina Ayman!
+</h1>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=700&color=00E0FF&center=true&vCenter=true&width=700&lines=Backend+%26+Full+Stack+Developer;Laravel+%7C+Node.js+%7C+Vue.js+%7C+Quasar;3%2B+Years+of+Experience;Building+Scalable+Web+Applications;Clean+Code+%7C+Problem+Solver"
+    alt="Typing SVG"
+  />
+</p>
+<p align="center">
+  <a href="https://github.com/marina-ayman">
+    <img
+      src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif"
+      width="100%"
+    />
+  </a>
+</p>
+<div align="center">
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBkZjB4YzRsa2tldDNlcHk0aXJ0c2RqcDZ6dWlwbHd3eGZ5ZmoxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/V4NSR1NG2p0KeJJyr5/giphy.gif"
+    width="300"
+    alt="coding-girl"
+  />
+  <br />
+  <img
+    src="https://komarev.com/ghpvc/?username=marina-ayman&label=Profile%20Views&color=00E0FF&style=flat-square"
+    alt="profile views"
+  />
 </div>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="35" /> Certifications
-<p align="center"> <img src="https://media.giphy.com/media/RbDKacqVZyri81VWpX/giphy.gif" width="80" /> </p>
-🎓 Software Development Fundamentals – Information Technology Institute (ITI), Aswan
-*Intensive Code Camp (3 months) | 08/2022 – 11/2022*
-Graduation Project: Booking & Hosting
+<img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png"
+  alt="Technologist"
+  width="40"
+/>
+About Me I'm a Software Engineer with 3+ years of experience in designing,
+developing, and deploying robust web applications. My expertise spans backend
+systems with Laravel and Node.js, and frontend interfaces with Vue.js/Quasar. I
+thrive on turning complex requirements into simple, elegant solutions. 
+<br>📍Location: Cairo, Egypt <br>📧 Email: marinaaymanae777@gmail.com<br> 🌐 Portfolio:
+marina-ayman.com <br>🔗 LinkedIn: linkedin.com/in/marina-ayman 
+<br>
+<h2 style="margin-left: 30px;"><img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png"
+  alt="Gear"
+  width="20"
+/>Tech Stack </h2>
 
-🎓 Full Stack Using PHP (Laravel - Angular) – Information Technology Institute (ITI), Aswan
-*Intensive Code Camp (3 months) | 11/2022 – 03/2023*
-Graduation Project: Discover Aswan (MUTE)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="35" /> Languages
-<p align="center"> <img src="https://img.shields.io/badge/Arabic-Native%20%2F%20Bilingual-00A86B?style=for-the-badge&labelColor=black&color=00A86B"> <img src="https://img.shields.io/badge/English-Professional%20Working-0077B5?style=for-the-badge&labelColor=black&color=0077B5"> </p>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" /> GitHub Analytics
-<p align="center"> <a href="https://github.com/marina-ayman"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marina-ayman&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-ayman&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/> </a> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=marina-ayman&theme=radical&hide_border=true" alt="GitHub Streak" width="80%"/> </p><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=marina-ayman&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies"/> </p>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" /> Let's Connect
-<p align="center"> <a href="mailto:marinaaymanae777@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Gmail"> </a> <a href="https://linkedin.com/in/marina-ayman"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn"> </a> <a href="https://github.com/marina-ayman"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub"> </a> <a href="https://marina-ayman.com"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white&labelColor=black" alt="Portfolio"> </a> <a href="https://www.facebook.com/marina.ayman.14855"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black" alt="Facebook"> </a> </p><p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%"> </p><p align="center"> <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=12,14,19,24&height=150&section=footer" width="100%"/> </p><p align="center"> <b>💖 Thanks for stopping by! Let's build something amazing together. 💖</b> </p>
+<p align="center">
+  <img
+    src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif"
+    width="100%"
+  />
+</p>
+
+<h3>🖥️ Backend</h3>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=black&color=FF2D20&logoWidth=25"
+    alt="Laravel"
+  />
+  <img
+    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black&color=339933&logoWidth=25"
+    alt="Node.js"
+  />
+  <img
+    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=black&color=777BB4&logoWidth=25"
+    alt="PHP"
+  />
+  <img
+    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=4479A1&logoWidth=25"
+    alt="MySQL"
+  />
+  <img
+    src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=black&color=CC2927&logoWidth=25"
+    alt="SQL Server"
+  />
+  <img
+    src="https://img.shields.io/badge/Eloquent-ORM-orange?style=for-the-badge&labelColor=black&color=orange"
+    alt="Eloquent"
+  />
+  <img
+    src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white&labelColor=black&color=52B0E7&logoWidth=25"
+    alt="Sequelize"
+  />
+  <img
+    src="https://img.shields.io/badge/REST-API-02569B?style=for-the-badge&labelColor=black&color=02569B"
+    alt="REST API"
+  />
+</p>
+<h3>🎨 Frontend</h3>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=black&color=4FC08D&logoWidth=25"
+    alt="Vue.js"
+  />
+  <img
+    src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white&labelColor=black&color=1976D2&logoWidth=25"
+    alt="Quasar"
+  />
+  <img
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black&color=F7DF1E&logoWidth=25"
+    alt="JavaScript"
+  />
+  <img
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=E34F26&logoWidth=25"
+    alt="HTML5"
+  />
+  <img
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=1572B6&logoWidth=25"
+    alt="CSS3"
+  />
+  <img
+    src="https://img.shields.io/badge/Ajax-005571?style=for-the-badge&logo=jquery&logoColor=white&labelColor=black&color=005571&logoWidth=25"
+    alt="Ajax"
+  />
+  <img
+    src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=black&color=DD0031&logoWidth=25"
+    alt="Angular"
+  />
+</p>
+<h3>🛠️ Tools & Others</h3>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=F05032&logoWidth=25"
+    alt="Git"
+  />
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=181717&logoWidth=25"
+    alt="GitHub"
+  />
+  <img
+    src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black&color=2496ED&logoWidth=25"
+    alt="Docker"
+  />
+  <img
+    src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=black&color=FF6C37&logoWidth=25"
+    alt="Postman"
+  />
+  <img
+    src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=black&color=00599C&logoWidth=25"
+    alt="C++"
+  />
+  <img
+    src="https://img.shields.io/badge/OOP-Object%20Oriented-blue?style=for-the-badge&labelColor=black&color=blue"
+    alt="OOP"
+  />
+  <img
+    src="https://img.shields.io/badge/MVC-Pattern-red?style=for-the-badge&labelColor=black&color=red"
+    alt="MVC"
+  />
+  <img
+    src="https://img.shields.io/badge/MVVM-Pattern-blue?style=for-the-badge&labelColor=black&color=blue"
+    alt="MVVM"
+  />
+</p>
+
+<h2 style="margin-left: 30px;"> <img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png"
+  alt="Briefcase"
+  width="25"
+/>
+Professional Experience</h2>
+
+
+<details open>
+  <summary>
+    <b>💻 Freelance Back‑End Developer</b> (2022 – Present) · Online
+  </summary>
+  <br />
+  <ul>
+    <li>
+      ⚡ Developed custom web applications using <b>Laravel MVC</b> and
+      <b>Node.js</b>.
+    </li>
+    <li>
+      ⚡ Integrated databases with <b>Eloquent ORM</b> and <b>Sequelize</b>.
+    </li>
+    <li>
+      ⚡ Built <b>RESTful APIs</b> with robust authentication & authorization.
+    </li>
+  </ul>
+</details>
+<details>
+  <summary>
+    <b>☁️ Full Stack Developer @ VPSie "Cloud Enabler"</b> · Node.js / Vue.js
+    (Quasar.js)
+  </summary>
+  <br />
+  <ul>
+    <li>
+      🚀 Contributed to the VPSie Cloud Platform – a web‑based system for
+      managing cloud servers and virtual environments.
+    </li>
+    <li>
+      🚀 Built interactive dashboards and responsive interfaces using
+      <b>Quasar Framework</b>.
+    </li>
+    <li>
+      🚀 Developed backend services with <b>Node.js</b>, handling user
+      authentication and server management.
+    </li>
+  </ul>
+</details>
+<details>
+  <summary>
+    <b>⚙️ PHP/Laravel Developer @ Acwad Company</b> (10/2023 – 05/2024) · Online
+  </summary>
+  <br />
+  <ul>
+    <li>
+      🛠️ Worked on <b>MVC architecture</b>, database creation (SQL Server,
+      phpMyAdmin).
+    </li>
+    <li>
+      🛠️ Implemented frontend features with
+      <b>HTML5, CSS3, JavaScript, Ajax</b>.
+    </li>
+    <li>🛠️ Managed code versioning with <b>GitHub</b>.</li>
+  </ul>
+</details>
+
+
+<h2 style="margin-left: 30px;">Featured Projects</h2>
+<div align="" style="margin-left: 50px;">
+  Project Description Tech Stack <br>🏛️ Borkan Management System Management system
+  for organizations supporting people with special needs – multi‑form
+  submission, admin approval workflows, automatic PDF generation for 16 official
+  forms.
+  <img
+    src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"
+    alt="Star"
+    width="60"
+  />
+  <img
+    src="https://img.shields.io/badge/AJAX-005571?style=flat&logo=jquery&logoColor=white"
+    alt="Star"
+    width="60"
+  /><br>
+  📈 Project Sales Representative Sales rep application with multi‑currency
+  invoices, contracts, and multilingual (AR/EN) admin dashboard.
+  <img
+    src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"
+    alt="Star"
+    width="60"
+  /><br>
+  🌴 MUTE – Discover Aswan Tourism website to help visitors explore Aswan easily
+  (graduation project).
+  <img
+    src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"
+    alt="Star"
+    width="60"
+  /><br>
+  🏥 Medical Supplies Store Inventory system for medical supplies – items,
+  suppliers, invoices, HR module.
+
+  <img
+    src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"
+    alt="Star"
+    width="60"
+  /><br>
+
+  🐔 Yamama Project Poultry product export management across branches and
+  countries – statistics, reporting, API.
+  <img
+    src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"
+    alt="Star"
+    width="60"
+  /><br>
+  💳 Invoices Project Bank invoice management (paid/unpaid/partial) with
+  authentication, email notifications, export to Excel/PDF.
+  <img
+    src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"
+    alt="Star"
+    width="60"
+  /><br>
+  🤝 Charitable Organization Project International charity platform connecting
+  local organizations, donors, beneficiaries – multi‑vendor, API.
+  <img
+    src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"
+    alt="Star"
+    width="60"
+  /><br>
+  🏨 Booking & Hosting Apartment rental platform with cultural hosting feature.
+  <img
+    src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"
+    alt="Star"
+    width="60"
+  /><br>
+  💻 LapTop Frontend landing page for laptops with animations.
+  <img
+    src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"
+    alt="Star"
+    width="60"
+  />
+  <img
+    src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"
+    alt="Star"
+    width="40"
+  />
+  <img
+    src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black"
+    alt="Star"
+    width="40"
+  />
+</div>
+<h2 style="margin-left: 30px;"><img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png"
+  alt="Party Popper"
+  width="35"
+/>
+Certifications</h2>
+
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/RbDKacqVZyri81VWpX/giphy.gif"
+    width="200"
+  />
+</p>
+<p align="center">
+🎓 Software Development Fundamentals – Information Technology Institute (ITI),
+Aswan *Intensive Code Camp (3 months) | 08/2022 – 11/2022* Graduation Project:
+Booking & Hosting <br>🎓 Full Stack Using PHP (Laravel - Angular) – Information
+Technology Institute (ITI), Aswan *Intensive Code Camp (3 months) | 11/2022 –
+03/2023* Graduation Project: Discover Aswan (MUTE)
+</p>
+<h2 style="margin-left: 30px;"> <img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png"
+  alt="Globe"
+  width="35"
+/>
+Languages</h2>
+
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Arabic-Native%20%2F%20Bilingual-00A86B?style=for-the-badge&labelColor=black&color=00A86B"
+  />
+  <img
+    src="https://img.shields.io/badge/English-Professional%20Working-0077B5?style=for-the-badge&labelColor=black&color=0077B5"
+  />
+</p>
+<h2 style="margin-left: 30px;"><img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png"
+  alt="Bar Chart"
+  width="30"
+/>
+GitHub Analytics </h2>
+
+<p align="center">
+  <a href="https://github.com/marina-ayman">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=marina-ayman&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"
+      alt="GitHub Stats"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-ayman&layout=compact&langs_count=8&theme=radical&hide_border=true"
+      alt="Top Languages"
+    />
+  </a>
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=marina-ayman&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+    width="80%"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=marina-ayman&theme=radical&no-frame=true&row=2&column=4"
+    alt="GitHub Trophies"
+  />
+</p>
+<h2 style="margin-left: 30px;"><img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png"
+  alt="Handshake"
+  width="35"
+/>
+Let's Connect</h2>
+
+<p align="center">
+  <a href="mailto:marinaaymanae777@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"
+      alt="Gmail"
+    />
+  </a>
+  <a href="https://linkedin.com/in/marina-ayman">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://github.com/marina-ayman">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black"
+      alt="GitHub"
+    />
+  </a>
+  <a href="https://marina-ayman.com">
+    <img
+      src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white&labelColor=black"
+      alt="Portfolio"
+    />
+  </a>
+  <a href="https://www.facebook.com/marina.ayman.14855">
+    <img
+      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black"
+      alt="Facebook"
+    />
+  </a>
+</p>
+
+</p>
+<p align="center">
+  <b>💖 Thanks for stopping by! Let's build something amazing together. 💖</b>
+</p>
